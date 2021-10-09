@@ -1,0 +1,9 @@
+{
+  "Package": "shapezio-compression",
+  "Version": "1.0-0",
+  "Section": "base",
+  "Priority": "optional",
+  "Architecture": "amd64",
+  "Maintainer": "MrMelon54 <github@onpointcoding.net>",
+  "Description": "Compression utility for shapez.io save files"
+}
