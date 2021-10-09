@@ -5,5 +5,5 @@
   "Priority": "optional",
   "Architecture": "amd64",
   "Maintainer": "MrMelon54 <github@onpointcoding.net>",
-  "Description": "Compression utility for shapez.io save files"
+  "Description": "Compression utility and api for shapez.io save files in go"
 }
